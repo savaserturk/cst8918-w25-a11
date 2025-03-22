@@ -9,13 +9,13 @@
 ## 📸 Screenshots
 
 ### Screenshot 1 – Azure Portal showing the `dev.terraform.tfstate` file  
-![Screenshot 1](./screenshots/screenshot1.png)
+![Screenshot 1](./screenshots/ss1.png)
 
 ### Screenshot 2 – Your Azure profile visible in the upper-right corner  
-![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 2](./screenshots/ss2.png)
 
 ### Screenshot 3 – Terraform apply output in the terminal  
-![Screenshot 3](./screenshots/screenshot3.png)
+![Screenshot 3](./screenshots/ss3.png)
 
 ---
 
